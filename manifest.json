@@ -7,6 +7,7 @@
     {
       "js": ["main.js"],
       "matches": ["<all_urls>"],
+      "exclude_matches": ["https://www.youtube.com/*"],
       "run_at": "document_start"
     }
   ]
