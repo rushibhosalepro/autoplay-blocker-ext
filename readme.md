@@ -1,0 +1,1 @@
+A simple Chrome extension that blocks autoplay videos and audio across all websites. Automatically pauses media elements and prevents them from playing without your permission, giving you a quieter, distraction-free browsing experience.
